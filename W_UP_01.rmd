@@ -1,7 +1,7 @@
 ---
 title: "W_UP_01"
 author: "Alexis Velasco"
-date: "fall 2020"
+date: "summer 2022"
 output: html_document
 ---
 
@@ -44,7 +44,7 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 boxplot(pushups~position,data=mydata)
 ```
 
-The line players are doing less push ups than the skill players because the lowest skill player is doing way more begging at 20  where  the lowest line player is not past 10. 
+The line players are doing less push ups than the skill players because the lowest skill player is doing way more begging at 20 where the lowest line player can not do more than 10 pushups on average. 
 
 ### Numerical Descriptive Results
 
